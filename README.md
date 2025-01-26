@@ -1,7 +1,7 @@
 # Drowsiness Detection System
 
 ## Overview
-YOLOv5 model detecting driver drowsiness by classifying eye closure and yawning states using computer vision techniques.
+A Drowsiness Detection System using a yolov5 model trained on a custom dataset that classifies drowsiness based on classifying eye closure and yawning states and provides alerts.
 
 ## Performance Metrics
 - Precision: 95.9%
