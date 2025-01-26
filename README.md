@@ -23,7 +23,6 @@ A Drowsiness Detection System using a yolov5 model trained on a custom dataset t
 ## Dataset
 - 3 classes: Eyes Closed, Eyes Open, Yawning
 - Training data consisted of 74 images of eyes closed, 77 images of eyes open and 56 images of yawning. 
-- Balanced multi-class dataset
 - The images were frames extracted from video clips of a subject in both low lighting & bright lighting, wearing spectables and without them and with hair tied back and hair open and facing in different angles.
 - The frames were labelled using labelImg.
 
